@@ -52,12 +52,3 @@ This project focuses on building a clean interface and demonstrating scheduling 
 Each queue may use:
 - First Come First Serve (FCFS)  
 - Round Robin (RR)  
-
----
-
-## 🏁 Getting Started
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-open index.html
