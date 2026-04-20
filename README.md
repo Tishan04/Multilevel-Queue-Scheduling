@@ -33,7 +33,6 @@ This project was developed as part of an academic assignment to demonstrate how 
 
 Multilevel Queue Scheduling is a CPU scheduling technique where processes are divided into multiple queues based on priority. Each queue operates independently and may use a different scheduling algorithm, allowing efficient management of system resources.
 
----
 
 ## ⚙️ Project Description
 
@@ -43,7 +42,6 @@ Multilevel Queue Scheduling is a CPU scheduling technique where processes are di
 
 This project focuses on building a clean interface and demonstrating scheduling behavior in a simple and understandable way.
 
----
 
 ## 🧩 Scheduling Concept
 
