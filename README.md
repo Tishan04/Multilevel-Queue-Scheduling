@@ -4,7 +4,6 @@
 A responsive website demonstrating process handling using multiple priority queues
 </p>
 
----
 
 ## 📌 About the Project
 
