@@ -4,11 +4,9 @@
 A responsive website demonstrating process handling using multiple priority queues
 </p>
 
-
 ## 📌 About the Project
 
 This project was developed as part of an academic assignment to demonstrate how CPU scheduling works using a multilevel queue system. It visually explains how processes are categorized and executed based on priority levels.
-
 
 ## 📖 Overview
 
