@@ -9,7 +9,7 @@ A responsive website demonstrating process handling using multiple priority queu
 
 This project was developed as part of an academic assignment to demonstrate how CPU scheduling works using a multilevel queue system. It visually explains how processes are categorized and executed based on priority levels.
 
--
+
 
 ## 🚀 Features
 
@@ -19,7 +19,6 @@ This project was developed as part of an academic assignment to demonstrate how 
 - 📚 Well-structured educational content  
 - ⚙️ Basic simulation of process handling  
 
----
 
 ## 🛠️ Technologies Used
 
@@ -29,7 +28,6 @@ This project was developed as part of an academic assignment to demonstrate how 
   <img src="https://img.shields.io/badge/JavaScript-Interactivity-yellow?style=for-the-badge&logo=javascript">
 </p>
 
----
 
 ## 📖 Overview
 
