@@ -10,38 +10,20 @@ A responsive website demonstrating process handling using multiple priority queu
 This project was developed as part of an academic assignment to demonstrate how CPU scheduling works using a multilevel queue system. It visually explains how processes are categorized and executed based on priority levels.
 
 
-
-## 🚀 Features
-
-- 📱 Responsive design for all screen sizes  
-- 🎯 Interactive scheduling behavior  
-- 🎨 Clean and modern UI design  
-- 📚 Well-structured educational content  
-- ⚙️ Basic simulation of process handling  
-
-
-## 🛠️ Technologies Used
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-Structure-orange?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS-Styling-blue?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/JavaScript-Interactivity-yellow?style=for-the-badge&logo=javascript">
-</p>
-
-
 ## 📖 Overview
 
 Multilevel Queue Scheduling is a CPU scheduling technique where processes are divided into multiple queues based on priority. Each queue operates independently and may use a different scheduling algorithm, allowing efficient management of system resources.
 
-
 ## ⚙️ Project Description
 
-- **HTML** – Structure of the web pages  
-- **CSS** – Styling and responsive layout  
-- **JavaScript** – Interactivity and logic simulation  
+This project was implemented using only the **C programming language**, focusing on the core logic behind multilevel queue scheduling.
 
-This project focuses on building a clean interface and demonstrating scheduling behavior in a simple and understandable way.
+It demonstrates how processes are managed, prioritized, and executed using fundamental programming concepts such as:
+- Data structures
+- Control flow
+- Algorithm design
 
+The main goal of this project is to provide a clear and simple understanding of scheduling behavior through a console-based implementation.
 
 ## 🧩 Scheduling Concept
 
