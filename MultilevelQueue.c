@@ -401,7 +401,6 @@ int main() {
 
     srand(time(NULL)); //seed random number generator for burst time generation
     init_queues();
-
     Process processes[number_of_processes];
     int pid_count = 0;
 
