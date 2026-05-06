@@ -38,7 +38,6 @@ int completed_count = 0; //increments each time a process finishes, used to chec
 void init_queues() {
     char* names[] = {"Q0 (RR)", "Q1 (SJF Preemptive)", "Q2 (SJF Non-Preemptive)", "Q3 (FIFO)"};
     int algorithms[] = {0, 1, 2, 3};
-
     for (int i = 0; i < 4; i++) {
         queues[i].front = NULL;
         queues[i].rear = NULL;
