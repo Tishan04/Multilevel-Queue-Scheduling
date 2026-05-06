@@ -315,7 +315,6 @@ int execute_fifo(int queue_num, int time_slice) {
            (queues[queue_num].front->is_completed || queues[queue_num].front->remaining_time <= 0)) {
         dequeue(queue_num);
     }
-
     Process* p = queues[queue_num].front;
     if (p == NULL) return 0;
 
