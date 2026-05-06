@@ -143,7 +143,6 @@ Process* find_shortest_job(int queue_num, Process** prev_out) {
         prev = curr;
         curr = curr->next;
     }
-
     if (prev_out != NULL) *prev_out = prev;
     return target;
 }
