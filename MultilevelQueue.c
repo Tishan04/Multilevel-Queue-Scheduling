@@ -121,7 +121,6 @@ Process* find_shortest_job(int queue_num, Process** prev_out) {
         }
         curr = curr->next;
     }
-
     if (count == 0) return NULL;
 
     //bubble sort the array by remaining time
