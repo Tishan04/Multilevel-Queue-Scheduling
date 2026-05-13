@@ -232,7 +232,7 @@ int execute_rr(int queue_num, int time_slice) {
     remove_process(queue_num, p_prev, p);
 
     int exec_time = (p->remaining_time < time_slice) ? p->remaining_time : time_slice;
-
+    
     p->remaining_time -= exec_time;
     current_time += exec_time;
     last_pid = p->pid; //remember this process for next round
